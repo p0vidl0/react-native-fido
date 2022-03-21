@@ -1,7 +1,7 @@
 {
   "name": "react-native-fido2",
   "title": "React Native Fido2",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "description": "TODO",
   "main": "index.js",
   "scripts": {
@@ -9,26 +9,26 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Emad-salah/react-native-fido.git",
-    "baseUrl": "https://github.com/Emad-salah/react-native-fido"
+    "url": "git+https://github.com/p0vidl0/react-native-fido.git",
+    "baseUrl": "https://github.com/p0vidl0/react-native-fido"
   },
   "keywords": [
     "react-native",
     "fido2"
   ],
   "author": {
-    "name": "Emad Kheir",
-    "email": "emads14@gmail.com"
+    "name": "Alex Kalashnikov",
+    "email": "nixomsk@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",
   "peerDependencies": {
-    "react": "^16.8.1",
+    "react": "^17.0.1",
     "react-native": ">=0.59.0-rc.0 <1.0.x"
   },
   "devDependencies": {
-    "react": "^16.8.3",
+    "react": "^17.0.1",
     "react-native": "^0.59.10"
   }
 }
